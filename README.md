@@ -1,63 +1,35 @@
-### Hi there, I'm Utkarsh Dubey! 👋
+# Utkarsh Dubey  
 
-🚀 *Aspiring AWS  | MERN Developer | ML & AI Enthusiast*  
-🌏 *Building Scalable & Intelligent Solutions*
+## About Me  
+I am a **MERN Stack Developer, AWS Cloud Practitioner, and AI/ML Enthusiast** with a strong focus on **building scalable web applications** and **cloud-based solutions**. Currently exploring **Microservices and DevOps** to enhance backend efficiency.  
 
----
-
-### 🌟 About Me
-- 🎓 *B.Tech in CSE (E-Commerce Technology)* @ VIT Bhopal University (2022 - 2026)
-- 👨‍💻 *Co-Founder of WebLab* - A Web Development Agency
-- 💡 Passionate about *MERN-Stack Development, Devops and Cloud Computing*
-- 🔥 Currently diving into *Microservices & DevOps*
-- 📍 Fluent in *English & Hindi*
+- **B.Tech in Computer Science (E-Commerce Technology)**
+- **Co-Founder of WebLab** | A Web Development Agency  
+- Passionate about **Full-Stack Development, DevOps, and Cloud Computing**  
 
 ---
 
-### 🛠 Tech Stack
-💻 *Frontend:* HTML, CSS (Tailwind CSS), JavaScript, React.js, Next.js  
-⚙ *Backend:* Node.js, Express.js  
-📦 *Database:* MongoDB, MySQL  
-🚀 *DevOps & Tools:* Git, GitHub, Docker, AWS  
-🔍 *Programming Languages:* C++ (Advanced), Python  
-💳 *Payment Gateways:* Stripe, Razorpay  
+## Tech Stack  
+
+**Frontend:** HTML, React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Databases:** MongoDB, MySQL  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), CI/CD Pipelines  
+**Languages:** C++, Python  
+**Other Tools:** Git, GitHub, Firebase, Stripe API  
 
 ---
 
-### 🔥 Featured Projects
-#### 🧑‍🎤 Portfolio Project
-A real-time hand sign prediction model using *Python, OpenCV, and Mediapipe, achieving **85% accuracy*.  
+## Open to Collaborations & Innovative Ideas  
 
-#### 💪 HealthyU - Gym Supplements E-Commerce Platform
-An interactive *e-commerce store* with a BMI calculator, built with *MERN stack & Tailwind CSS*.  
+I am always eager to **collaborate on impactful projects, brainstorm innovative solutions, and build something extraordinary.** Whether it’s a **cutting-edge web application, cloud-driven architecture, AI/ML integration, or a bold new startup idea**, I am open to exploring possibilities and bringing ideas to life.  
 
-#### 💸 HelpWana - Crowdfunding Platform
-A *secure funds transfer* & crowdfunding platform built with *Next.js, MongoDB, and Stripe API*.  
+If you have an **exciting project, a groundbreaking concept, or just a spark of an idea**, let’s connect and make it happen. **Drop me a message or email me—let’s create something exceptional together.**  
 
-#### 🚗 Zyrow - Microservices Architecture Project
-A scalable *backend inspired by Uber, utilizing **Microservices, Docker, and AWS* (In Progress).  
+**Email:** [utkarsh.cloudops@gmail.com](mailto:utkarsh.cloudops@gmail.com)  
+**LinkedIn:** [linkedin.com/in/utkarsh-kumar-dubey-26a73b248](https://www.linkedin.com/in/utkarsh-kumar-dubey/)
+**GitHub:** [github.com/utkarsh-deployes](https://github.com/utkarsh-deployes) 
 
----
+Let’s build, innovate, and disrupt.  
 
-### 🎖 Achievements & Certifications
-- 🏆 *5-Star C++ Rating on HackerRank*
-- 🎯 *Completed 100 Days of DSA Challenge*
-- 💡 *EY-Techathon Round 1 Cleared*
-- 💡 *Tata Crucible Round 2 Cleared*
-- 📜 Certified in *HTML/CSS/JavaScript (Coursera), C++ Programming (Udemy)*
 
----
-
-### 🚀 Future Plans
-🔹 *Integrating AI, ML, AR/VR into Web & Mobile Applications*  
-🔹 *Deploying Large-Scale Applications on AWS*  
-🔹 *Exploring Blockchain for Decentralized Web Solutions*  
-
----
-
-### 📫 Connect With Me
-🔗 [LinkedIn](www.linkedin.com/in/utkarsh-kumar-dubey-26a73b248)  
-📝 [GitHub](https://github.com/utkarsh-deployes) 
-📧 *Email:* [utkarsh.cloudops@gmail.com](mailto:utkarsh.cloudops@gmail.com)  
-
-⚡ Let's build something amazing together! 🚀
