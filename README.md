@@ -28,7 +28,7 @@ If you have an **exciting project, a groundbreaking concept, or just a spark of 
 
 **Email:** [utkarsh.cloudops@gmail.com](mailto:utkarsh.cloudops@gmail.com)  
 **LinkedIn:** [linkedin.com/in/utkarsh-kumar-dubey-26a73b248](https://www.linkedin.com/in/utkarsh-kumar-dubey/)
-**GitHub:** [github.com/utkarsh-deployes](https://github.com/utkarsh-deployes) 
+-**GitHub:** [github.com/utkarsh-deployes](https://github.com/utkarsh-deployes) 
 
 Let’s build, innovate, and disrupt.  
 
