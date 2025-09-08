@@ -31,10 +31,6 @@ I am a **MERN Stack Developer, AWS Cloud Practitioner, and AI/ML Enthusiast** wi
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-deployes&layout=compact&theme=default" />
   </a>
-  <a href="https://github.com/utkarsh-deployes/Resume-Analyzer">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=utkarsh-deployes&repo=Resume-Analyzer&theme=default" />
-  </a>
-</p>
 
 ---
 
