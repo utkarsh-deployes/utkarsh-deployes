@@ -1,15 +1,17 @@
-# Utkarsh Dubey  
+![Git Banner](./gitbanner.png)
 
-## About Me  
+## Hello World, I'm Utkarsh👋
+
+### About Me  
 I am a **MERN Stack Developer, AWS Cloud Practitioner, and AI/ML Enthusiast** with a strong focus on **building scalable web applications** and **cloud-based solutions**. Currently exploring **Microservices and DevOps** to enhance backend efficiency.  
 
 - **B.Tech in Computer Science (E-Commerce Technology)**
 - **Co-Founder of WebLab** | A Web Development Agency  
-- Passionate about **Full-Stack Development, DevOps, and Cloud Computing**  
+- Passionate about **Full-Stack Development, Data and Cloud Computing**  
 
 ---
 
-## Tech Stack  
+### Tech Stack  
 
 **Frontend:** HTML, React.js, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
@@ -20,7 +22,23 @@ I am a **MERN Stack Developer, AWS Cloud Practitioner, and AI/ML Enthusiast** wi
 
 ---
 
-## Open to Collaborations & Innovative Ideas  
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=utkarsh-deployes&show_icons=true&theme=default" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-deployes&layout=compact&theme=default" />
+  </a>
+  <a href="https://github.com/utkarsh-deployes/Resume-Analyzer">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=utkarsh-deployes&repo=Resume-Analyzer&theme=default" />
+  </a>
+</p>
+
+---
+
+### Open to Collaborations & Innovative Ideas  
 
 I am always eager to **collaborate on impactful projects, brainstorm innovative solutions, and build something extraordinary.** Whether it’s a **cutting-edge web application, cloud-driven architecture, AI/ML integration, or a bold new startup idea**, I am open to exploring possibilities and bringing ideas to life.  
 
