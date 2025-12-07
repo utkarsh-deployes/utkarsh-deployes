@@ -22,18 +22,6 @@ I am a **MERN Stack Developer, AWS Cloud Practitioner, and AI/ML Enthusiast** wi
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=utkarsh-deployes&show_icons=true&theme=default" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-deployes&layout=compact&theme=default" />
-  </a>
-
----
-
 ### Open to Collaborations & Innovative Ideas  
 
 I am always eager to **collaborate on impactful projects, brainstorm innovative solutions, and build something extraordinary.** Whether it’s a **cutting-edge web application, cloud-driven architecture, AI/ML integration, or a bold new startup idea**, I am open to exploring possibilities and bringing ideas to life.  
